@@ -1,0 +1,6 @@
+```txt
+requests==2.31.0
+cryptography==41.0.7
+pyOpenSSL==23.2.0
+colorama==0.4.6
+aiohttp==3.8.5
